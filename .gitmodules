@@ -1,0 +1,3 @@
+[submodule "agda-llvm"]
+	path = agda-llvm
+	url = https://github.com/fredins/agda-llvm/
